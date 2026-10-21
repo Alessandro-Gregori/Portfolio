@@ -2,7 +2,7 @@
 
 A single-page portfolio of research, space, and personal engineering projects.
 
-Live site: https://alessandro-gregori.github.io (once published, see below)
+Live site: https://portfolio-qodviausy-alessandro-gregoris-projects.vercel.app/
 
 ## What's in this repository
 
